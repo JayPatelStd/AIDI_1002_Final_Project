@@ -1,6 +1,6 @@
 # MLP Final Project
 
-# Credit:
+#### Credit:
 
 #### **Research Paper Link:** https://github.com/ritvik02/Financial-Data-Time-Series-Forecasting-Using-Neural-Networks/blob/main/Paper.pdf
 
