@@ -1,10 +1,14 @@
-# AIDI_1002_Final_Project
+# MLP Final Project
 
 # Credit:
 
 #### **Research Paper Link:** https://github.com/ritvik02/Financial-Data-Time-Series-Forecasting-Using-Neural-Networks/blob/main/Paper.pdf
 
 #### **Source Link:** https://ieeexplore.ieee.org/document/9725845
+
+## **Objective:**
+
+The objective of this project is to explore and compare the effectiveness of various neural network models, such as Convolution Neural Network, Long Short Term Memory, Bidirectional LSTM, and Autoregressive Integrated Moving Average models, in forecasting financial data time series. The project aims to identify the model that yields the best results in terms of accuracy and efficiency. The ultimate goal is to enhance the prediction capabilities of financial time series data, thereby aiding in better decision-making processes in the financial sector.
 
 ## **Problem Description:**
 
