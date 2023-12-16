@@ -24,6 +24,29 @@ Machine learning approaches, while powerful, also have their limitations. They o
 
 The use of neural networks in this project aims to address some of these limitations by leveraging their ability to model complex, non-linear relationships and their capacity for handling large datasets. However, it’s important to note that while neural networks can improve prediction accuracy, they also require careful tuning and validation to ensure robust performance. Additionally, interpretability remains a challenge with these models.
 
+## My Contribution
+
+
+1. **Incorporation of GRU Model**: 
+    - The project was enriched by the integration of the Gated Recurrent Unit (GRU) model, which was not part of the original research paper.
+    
+
+2. **Comparative Analysis**: 
+    - A comparative analysis was conducted, the results of which are depicted in a bar graph. This analysis demonstrated the competitive performance of the GRU model in forecasting financial time series data.
+    
+
+3. **Validation of GRU Model**: 
+    - The robustness of the GRU model was validated, reinforcing its efficacy in the realm of financial forecasting.
+    
+
+4. **Understanding Neural Network Applications**: 
+    - The project contributed to a more comprehensive understanding of the diverse applications of various neural network models in financial time series forecasting.
+    
+
+5. **Future Work**: 
+    - There is potential for further enhancements and fine-tuning of the GRU model to achieve superior performance. This could involve exploring different architectural variations, tuning hyperparameters more effectively, or applying advanced training techniques.
+
+
 ## **References**
 
 [1]: R. Khandelwal, P. Marfatia, S. Shah, V. Joshi, P. Kamath and K. Chavan, "Financial Data Time Series Forecasting Using Neural Networks and a Comparative Study," 2022 International Conference for Advancement in Technology (ICONAT), Goa, India, 2022, pp. 1-6, doi: 10.1109/ICONAT53423.2022.9725845.
